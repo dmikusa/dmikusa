@@ -1,4 +1,10 @@
-## Hi there 👋
+My name is Daniel Mikusa. I am a professional software developer in the Cleveland Ohio area.
+
+Find out more about me:
+
+<a href="https://fosstodon.org/@dmikusa" target="_blank"><img alt="Mastodon" src="https://img.shields.io/badge/Mastodon-6468fa?style=for-the-badge&logo=mastodon&logoColor=%23ffffff"></a>&nbsp;<a href="https://www.linkedin.com/in/danielmikusa" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-1667be?style=for-the-badge&logo=linkedin&logoColor=%23ffffff"></a>&nbsp;<a href="https://www.mikusa.com/about" target="_blank"><img alt="Web Site" src="https://img.shields.io/badge/Web%20Site-7EAD01?style=for-the-badge&logo=mikusa&logoColor=%23ffffff"></a>&nbsp;<a href="https://stackoverflow.com/users/1585136/daniel-mikusa" target="_blank"><img alt="Web Site" src="https://img.shields.io/badge/StackOverflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=%23ffffff"></a>
+
+[![Dan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmikusa&show=reviews,discussions_answered,prs_merged&show_icons=true&theme=synthwave)](https://github.com/dmikusa)
 
 <!--
 **dmikusa/dmikusa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

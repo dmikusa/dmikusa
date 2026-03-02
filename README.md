@@ -5,8 +5,11 @@ I write open source software, and I occasionally talk at conferences.
 Here are some of my recent presentations.
 
 Confoo 2026
-  - Container Deep Dive: Namespaces, Layers, and cgroups ([abstract](https://confoo.ca/en/2026/session/container-deep-dive-namespaces-layers-and-cgroups))
-  - Effortless Containerization with Cloud-Native Buildpacks ([abstract](https://confoo.ca/en/2026/session/effortless-containerization-with-cloud-native-buildpacks))
+  - Container Deep Dive: Namespaces, Layers, and cgroups ([abstract](https://confoo.ca/en/2026/session/container-deep-dive-namespaces-layers-and-cgroups), [slides](https://github.com/dmikusa/container-deep-dive-slides), [demos](https://github.com/dmikusa/container-deep-dive-slides/tree/main/demos))
+  - Effortless Containerization with Cloud-Native Buildpacks ([abstract](https://confoo.ca/en/2026/session/effortless-containerization-with-cloud-native-buildpacks), [slides](https://github.com/dmikusa/effortless-containerization-with-cnbs))
+
+Montreal CNCF Meetup Q1 2026 @ ConFoo
+  - Buildpacks for Ops Teams ([event](https://community.cncf.io/events/details/cncf-cloud-native-montreal-presents-q1-montreal-cncf-meetup-user-stories-at-confoo/), [slides](https://github.com/dmikusa/buildpacks-for-ops))
 
 CodeMash 2026
   - Model Context Protocol: A Systems Integration Perspective ([slides](https://github.com/dmikusa/mcp-a-systems-integration-perspective), [demos](https://github.com/dmikusa/codemash-2026-mcp-demo))
